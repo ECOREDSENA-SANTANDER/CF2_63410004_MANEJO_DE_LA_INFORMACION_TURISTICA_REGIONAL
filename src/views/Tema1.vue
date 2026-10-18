@@ -244,8 +244,22 @@
           br
           br
           p La elaboración de un inventario turístico puede incluir diferentes momentos, como la revisión de información previa, la identificación de recursos y atractivos, la clasificación, el trabajo de campo, el registro en formatos, la valoración y la actualización de la información. Sin embargo, para la prestación del servicio turístico, lo más importante es saber interpretar esa información y utilizarla de manera responsable al orientar al visitante.
-          p Para profundizar en el proceso técnico de identificación, clasificación, registro y valoración de los atractivos turísticos, puede consultarse el Anexo 1. Metodología para la elaboración del inventario de atractivos turísticos, del Ministerio de Comercio, Industria y Turismo. Este documento amplía los criterios, formularios y orientaciones utilizados para elaborar inventarios turísticos en los territorios; en este componente se retoman únicamente los aspectos necesarios para comprender el inventario como herramienta de orientación al visitante y apoyo a la gestión turística regional (Ministerio de Comercio, Industria y Turismo, 2020).
+          p Para profundizar en el proceso técnico de identificación, clasificación, registro y valoración de los atractivos turísticos, puede consultarse el Anexo 01. Metodología para la elaboración del inventario de atractivos turísticos, del Ministerio de Comercio, Industria y Turismo. Este documento amplía los criterios, formularios y orientaciones utilizados para elaborar inventarios turísticos en los territorios; en este componente se retoman únicamente los aspectos necesarios para comprender el inventario como herramienta de orientación al visitante y apoyo a la gestión turística regional (Ministerio de Comercio, Industria y Turismo, 2020).
 
+      .tarjeta.color-primario.p-3.mb-5
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/Tema1/ubi.svg")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0.texto-blanco
+                h4.mb-1 Anexo 01
+                p.mb-0 Metodología para la elaboración del inventario de atractivos turísticos:
+              .col-sm-auto
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_01_Metodologia_para_la_elaboracion_del_inventario_de_atractivos_turisticos.pdf')" target="_blank")
+                  span Ver más
+                  i.fas.fa-file-download
+                  
       .cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
         p En la metodología del MinCIT, la valoración de atractivos considera aspectos como la calidad y el significado. La calidad se relaciona con el estado de conservación, organización, representatividad o condiciones del atractivo, según su naturaleza. El significado se refiere al nivel de reconocimiento del atractivo en el ámbito local, regional, nacional o internacional. Esta información ayuda a priorizar atractivos, diseñar recorridos y brindar recomendaciones más pertinentes al visitante (Ministerio de Comercio, Industria y Turismo, 2020).
         p Por ejemplo, si una persona solicita información sobre una experiencia cultural en la región, el inventario puede ayudar a identificar festividades, museos, centros históricos, prácticas gastronómicas o expresiones artísticas disponibles. Si la solicitud está relacionada con naturaleza, puede orientar sobre senderos, miradores, reservas, cascadas o parques, junto con recomendaciones de acceso, horarios, clima, seguridad y cuidado del entorno.
