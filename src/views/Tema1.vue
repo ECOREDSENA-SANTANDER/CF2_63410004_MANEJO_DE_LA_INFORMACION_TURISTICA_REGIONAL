@@ -19,7 +19,7 @@
         .col-sm-12.col-lg-7
           .d-flex.align-items-start
             img.w-card-icon(src="@/assets/curso/Tema1/ico.svg")
-            h3.bg3.py-2.w-card-text.text-white Destino turísticos
+            h3.bg3.py-2.w-card-text.text-white Destinos turísticos
         
 
       .row.justify-content-center.align-items-stretch.mb-4.bg6(data-aos='fade-right')

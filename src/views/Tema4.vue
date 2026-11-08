@@ -417,57 +417,48 @@
           img.w-card-icon(src="@/assets/curso/Tema1/ico.svg")
           h3.bg3.py-2.w-card-text.text-white Tipos de sistemas de información en turismo
 
+    SlyderF(columnas="col-lg-6 col-xl-4").mb-4
+      .tarjeta.bg14.p-4
+        .row.justify-content-center.mb-3
+          .col-8.col-lg-9
+            img(src='@/assets/curso/Tema4/pas13.png' alt='')
+        h4.text-center Sistemas de reservas
+        p.text-center Permiten registrar, consultar y gestionar reservas de alojamiento, transporte, paquetes turísticos, actividades, restaurantes o eventos.
 
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
-        .col-lg-12
-          LineaTiempoE.color-secundario
-            .row.justify-content-center(titulo="Paso 1" subtitulo="")
-              .col-lg-3.col-7.mb-3.col-md-6
-                figure
-                  img(src='@/assets/curso/Tema4/pas13.png', alt='')
-              .col-lg-8.mb-4.mb-lg-0
-                h5 Sistemas de reservas
-                p Permiten registrar, consultar y gestionar reservas de alojamiento, transporte, paquetes turísticos, actividades, restaurantes o eventos.
+      .tarjeta.bg14.p-4
+        .row.justify-content-center.mb-3
+          .col-8.col-lg-9
+            img(src='@/assets/curso/Tema4/pas14.png' alt='')
+        h4.text-center Sistemas de gestión hotelera
+        p.text-center Apoyan la administración de hoteles y alojamientos en procesos como recepción, habitaciones, facturación, inventario, pagos, reservas y atención al huésped.
 
-            .row.justify-content-center(titulo="Paso 2" subtitulo="")
-              .col-lg-3.col-7.mb-3.col-md-6
-                figure
-                  img(src='@/assets/curso/Tema4/pas14.png', alt='')
-              .col-lg-8.mb-4.mb-lg-0
-                h5 Sistemas de gestión hotelera
-                p Apoyan la administración de hoteles y alojamientos en procesos como recepción, habitaciones, facturación, inventario, pagos, reservas y atención al huésped.
+      .tarjeta.bg14.p-4
+        .row.justify-content-center.mb-3
+          .col-8.col-lg-9
+            img(src='@/assets/curso/Tema4/pas15.png' alt='')
+        h4.text-center Sistemas de información geográfica
+        p.text-center Organizan información relacionada con ubicación de atractivos, rutas, senderos, zonas turísticas, hoteles, restaurantes y puntos de interés.
 
-            .row.justify-content-center(titulo="Paso 3" subtitulo="")
-              .col-lg-3.col-7.mb-3.col-md-6
-                figure
-                  img(src='@/assets/curso/Tema4/pas15.png', alt='')
-              .col-lg-8.mb-4.mb-lg-0
-                h5 Sistemas de información geográfica
-                p Organizan información relacionada con ubicación de atractivos, rutas, senderos, zonas turísticas, hoteles, restaurantes y puntos de interés.
+      .tarjeta.bg14.p-4
+        .row.justify-content-center.mb-3
+          .col-8.col-lg-9
+            img(src='@/assets/curso/Tema4/pas16.png' alt='')
+        h4.text-center Sistemas de atención al cliente
+        p.text-center Permiten registrar solicitudes, quejas, reclamos, sugerencias, encuestas de satisfacción y seguimiento a los visitantes.
 
-            .row.justify-content-center(titulo="Paso 4" subtitulo="")
-              .col-lg-3.col-7.mb-3.col-md-6
-                figure
-                  img(src='@/assets/curso/Tema4/pas16.png', alt='')
-              .col-lg-8.mb-4.mb-lg-0
-                h5 Sistemas de atención al cliente
-                p Permiten registrar solicitudes, quejas, reclamos, sugerencias, encuestas de satisfacción y seguimiento a los visitantes.
+      .tarjeta.bg14.p-4
+        .row.justify-content-center.mb-3
+          .col-8.col-lg-9
+            img(src='@/assets/curso/Tema4/pas17.png' alt='')
+        h4.text-center Sistemas de promoción y comercialización turística
+        p.text-center Apoyan la divulgación de productos, servicios y destinos a través de páginas web, redes sociales, plataformas de venta, correos electrónicos o campañas digitales.
 
-            .row.justify-content-center(titulo="Paso 5" subtitulo="")
-              .col-lg-3.col-7.mb-3.col-md-6
-                figure
-                  img(src='@/assets/curso/Tema4/pas17.png', alt='')
-              .col-lg-8.mb-4.mb-lg-0
-                h5 Sistemas de promoción y comercialización turística
-                p Apoyan la divulgación de productos, servicios y destinos a través de páginas web, redes sociales, plataformas de venta, correos electrónicos o campañas digitales.
-
-            .row.justify-content-center(titulo="Paso 6" subtitulo="")
-              .col-lg-3.col-7.mb-3.col-md-6
-                figure
-                  img(src='@/assets/curso/Tema4/pas18.png', alt='')
-              .col-lg-8.mb-4.mb-lg-0
-                h5 Sistemas estadísticos y de análisis turístico
-                p Permiten analizar datos sobre visitantes, ocupación hotelera, gasto turístico, temporadas, preferencias, comportamiento del mercado y resultados del servicio.
+      .tarjeta.bg14.p-4
+        .row.justify-content-center.mb-3
+          .col-8.col-lg-9
+            img(src='@/assets/curso/Tema4/pas18.png' alt='')
+        h4.text-center Sistemas estadísticos y de análisis turístico
+        p.text-center Permiten analizar datos sobre visitantes, ocupación hotelera, gasto turístico, temporadas, preferencias, comportamiento del mercado y resultados del servicio.
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10

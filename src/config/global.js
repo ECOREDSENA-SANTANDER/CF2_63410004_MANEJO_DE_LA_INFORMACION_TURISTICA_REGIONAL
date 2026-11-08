@@ -261,7 +261,7 @@ export default {
       autores: [
         {
           nombre: 'Celmira Pereira Franco',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -280,12 +280,12 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Leonardo Castellanos Rodriguez',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Maria Alejandra Vera Briceño',
+          nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
