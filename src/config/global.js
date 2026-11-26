@@ -90,7 +90,7 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar materialalll',
         download: 'downloads/material.zip',
       },
       {
